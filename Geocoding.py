@@ -8,7 +8,7 @@ import string
 import coordtransf
 
 Geocoding_URL = 'https://restapi.amap.com/v3/geocode/geo?'
-Geocoding_API = 'f7bfd54185f246ae08ea212efe6cd171'
+Geocoding_API = 'your key'
 
 
 def coding( address ):
